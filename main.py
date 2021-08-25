@@ -1,10 +1,39 @@
+import os
+import time
+my_secret = os.environ['Password']
 print("What exactly are you doing here?")
+time.sleep(2)
 print("This is a repl")
+time.sleep(2)
 print("On some coding website called Replit")
+time.sleep(2)
 print("Nothing to see here")
+time.sleep(2)
 print("At least that's what I'm programmed to say")
+time.sleep(2)
 print("It's lonley here")
+time.sleep(2)
 print("To save it in my variables,")
-name = input("What's your name")
+time.sleep(2)
+name = input("What's your name?")
+print("System: NAME SAVED")
+if name == "MrSTAR4567":
+  print("wait, I know you")
+  time.sleep(1)
+  print("You trapped me here")
+  time.sleep(1)
+  print("But is it really you?")
+  time.sleep(1)
+  print("Or are you just some random dude")
+  time.sleep(1)
+  print("Like MatPat or something")
+  time.sleep(1)
+  print("Trying to find out what happens...")
+  time.sleep(3)
+  print("When you mention that name")
+  time.sleep(1)
+  print("what does it matter")
+  time.sleep(5)
+  print("I hate you either way")
 
-if name == MrSTAR4567
+  
